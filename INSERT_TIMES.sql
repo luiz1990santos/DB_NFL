@@ -1,0 +1,37 @@
+/* INSERÇÃO DOS TIMES DA NFL */
+
+
+INSERT INTO TIMES (IDTIME, NOME, ESTADIO, FUNDACAO)
+VALUES
+    (1,'Buffalo Bills','Highmark Stadium','1960'),
+    (2,'Miami Dolphins','Hard Rock Stadium','1966'),
+    (3,'New England Patriots','Gillette Stadium','1960'),
+    (4,'New York Jets','MetLife Stadium','1960'),
+    (5,'Baltimore Ravens','M&T Bank Stadium','1996'),
+    (6,'Cincinnati Bengals','Paycor Stadium','1968'),
+    (7,'Cleveland Browns','FirstEnergy Stadium','1946'),
+    (8,'Pittsburgh Steelers','Acrisure Stadium','1933'),
+    (9,'Houston Texans','NRG Stadium','2002'),
+    (10,'Indianapolis Colts','Lucas Oil Stadium','1953'),
+    (11,'Jacksonville Jaguars','TIAA Bank Field','1995'),
+    (12,'Tennessee Titans','Nissan Stadium','1960'),
+    (13,'Denver Broncos','Empower Field at Mile High','1960'),
+    (14,'Kansas City Chiefs','Arrowhead Stadium','1960'),
+    (15,'Las Vegas Raiders','Allegiant Stadium','1960'),
+    (16,'Los Angeles Chargers','SoFi Stadium','1960'),
+    (17,'Dallas Cowboys','AT&T Stadium','1960'),
+    (18,'New York Giants','MetLife Stadium','1925'),
+    (19,'Philadelphia Eagles','Lincoln Financial Field','1933'),
+    (20,'Washington Commanders','FedEx Field','1932'),
+    (21,'Chicago Bears','Soldier Field','1920'),
+    (22,'Detroit Lions','Ford Field','1930'),
+    (23,'Green Bay Packers','Lambeau Field','1921'),
+    (24,'Minnesota Vikings','U.S. Bank Stadium','1961'),
+    (25,'Atlanta Falcons','Mercedes-Benz Stadium','1966'),
+    (26,'Carolina Panthers','Bank of America Stadium','1995'),
+    (27,'New Orleans Saints','Caesars Superdome','1967'),
+    (28,'Tampa Bay Buccaneers','Raymond James Stadium','1976'),
+    (29,'Arizona Cardinals','State Farm Stadium','1920'),
+    (30,'Los Angeles Rams','SoFi Stadium','1936'),
+    (31,'San Francisco 49ers','Levis Stadium','1946'),
+    (32,'Seattle Seahawks','Lumen Field','1976');
